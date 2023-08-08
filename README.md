@@ -1,3 +1,3 @@
 # сайт на Gulp сборке
 
-я использую [Демо] (https://setuaz1.github.io/projects/)
+[Demo]([url](https://setuaz1.github.io/projects/)https://setuaz1.github.io/projects/)
